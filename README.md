@@ -26,6 +26,9 @@
   </a>
 </p>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avexyk&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="avexyk's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avexyk&layout=compact&theme=swift&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 #### Últimas publicaciones en mi [blog personal y memorias del nautilus](https://blog.avexyk.com/)
 - [Ionic Framework 5](https://blog.avexyk.com/ionic-framework-5/)
 - [V.2.3 El arrastre](https://blog.avexyk.com/v-2-3-el-arrastre/)
