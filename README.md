@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://avexyk.com" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://api.iconify.design/simple-icons/homeadvisor.svg?color=%23983758" alt="avexyk" height="28px" width="28px" />
+    <img align="center" src="https://api.iconify.design/simple-icons/homeadvisor.svg?color=%23cd924e" alt="avexyk" height="28px" width="28px" />
   </a>
   <a href="https://www.last.fm/es/user/avexyk" target="blank">
     <img align="center" src="https://api.iconify.design/simple-icons/lastdotfm.svg?color=%23da0808" alt="lastfm" height="28px" width="28px" />
