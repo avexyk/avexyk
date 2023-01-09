@@ -26,9 +26,6 @@
   </a>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avexyk&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="avexyk's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avexyk&layout=compact&theme=swift&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 [Blog personal](https://blog.avexyk.com/) :computer:
 
 <br />
